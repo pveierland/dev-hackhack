@@ -2,6 +2,7 @@
   description = "";
   inputs = {
     nixpkgs.url = "flake:nixpkgs/nixpkgs-unstable";
+    nix.url = "flake:nix";
   };
   outputs = inputs:
     let

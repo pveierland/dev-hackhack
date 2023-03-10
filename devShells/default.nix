@@ -8,5 +8,6 @@ pkgs.mkShell
   packages = [
     pkgs.nyancat
     pkgs.sl
+    pkgs.nix
   ];
 }
