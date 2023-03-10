@@ -9,5 +9,6 @@ pkgs.mkShell
     pkgs.nyancat
     pkgs.sl
     pkgs.nix
+    pkgs.bash
   ];
 }
